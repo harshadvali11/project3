@@ -9,4 +9,7 @@ def srujana(request):
 
 def meghana(request):
     return HttpResponse('<h1><marquee>My Name is Meghanaaa Sir......<marquee></h1>')
-    
+
+
+def harshad(request):
+    return HttpResponse('<h1><marquee>My Name is Harshad Sir......<marquee></h1>')
